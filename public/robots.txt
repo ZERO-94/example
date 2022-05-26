@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fundiin.vn
+
+# Sitemaps
+Sitemap: https://fundiin.vn/sitemap.xml

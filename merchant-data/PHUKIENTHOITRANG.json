@@ -1,0 +1,177 @@
+[
+    {
+        "id": 742,
+        "name": "xwatch",
+        "image": "/images/partners/xwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://xwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 641,
+        "name": "watchstore",
+        "image": "/images/partners/watchstore_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://www.watchstore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 801,
+        "name": "UMO",
+        "image": "/images/partners/umo_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://umo.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3221,
+        "name": "Eyewear",
+        "image": "/images/partners/eyewearhouse_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://eyewearhouse.tech/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1921,
+        "name": "thanhhungwatch",
+        "image": "/images/partners/thanhhungwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://thanhhungwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1101,
+        "name": "thegioidongho",
+        "image": "/images/partners/thegioidongho_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://thegioidongho.vip?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1801,
+        "name": "baothanhwatch",
+        "image": "/images/partners/baothanhwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://donghobaothanh.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2422,
+        "name": "hona",
+        "image": "/images/partners/hona_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://honastore.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2681,
+        "name": "timercasio",
+        "image": "/images/partners/timercasio_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://timercasio.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2922,
+        "name": "Danawatch",
+        "image": "/images/partners/danawatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://danawatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 961,
+        "name": "1994s",
+        "image": "/images/partners/1994s_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://1994s.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1521,
+        "name": "zenwatch",
+        "image": "/images/partners/zenwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://zenwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 361,
+        "name": "catwatch",
+        "image": "/images/partners/catwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://catwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 761,
+        "name": "dolleyes",
+        "image": "/images/partners/dolleyes_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://dolleyes.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3041,
+        "name": "TopBop",
+        "image": "/images/partners/topbop_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://www.topbop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1001,
+        "name": "T&H Watch",
+        "image": "/images/partners/th_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://dongho-tnh.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 165,
+        "name": "curnon",
+        "image": "/images/partners/curnon_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://curnonwatch.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 182,
+        "name": "kya",
+        "image": "/images/partners/kya_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://kyajewel.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1686,
+        "name": "ShowYourColors",
+        "image": "/images/partners/show-your-colors-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://www.barooptic.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1683,
+        "name": "Leka",
+        "image": "/images/partners/leka_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://leka.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1684,
+        "name": "Chinup",
+        "image": "/images/partners/chinup-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://chinup.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1693,
+        "name": "Watchme",
+        "image": "/images/partners/watchme-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://watchmestore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1710,
+        "name": "Luxewatch",
+        "image": "/images/partners/luxewatch-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://luxewatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1715,
+        "name": "Luxewatch",
+        "image": "/images/partners/ovenis-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://ovenis.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1716,
+        "name": "DongHoUyTin",
+        "image": "/images/partners/donghouytin-logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://donghouytin.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    }
+]

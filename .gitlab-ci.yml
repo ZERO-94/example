@@ -1,0 +1,89 @@
+image: docker:dind
+stages:
+  - build
+  - deploy
+variables:
+  STG_S3_BUCKET_NAME: stg-fundiin-home-page
+  PROD_S3_BUCKET_NAME: fundiin-home-page
+  AWS_ACCESS_KEY_ID: $AWS_FUNDIIN_HOME_ACCESS_KEY_ID
+  AWS_SECRET_ACCESS_KEY: $AWS_FUNDIIN_HOME_SECRET_ACCESS_KEY
+services:
+  - docker:dind
+
+build-stg:
+  stage: build
+  image: node:lts
+  script:
+    - |
+      npm install --force
+      npm run build
+      npm run export
+  artifacts:
+    name: package-stg
+    paths:
+      - out/*
+    expire_in: 5 days
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "web" && $CI_COMMIT_BRANCH != "main"'
+      when: always
+  tags:
+    - default
+
+build-prod:
+  stage: build
+  image: node:lts
+  script:
+    - |
+      npm install --force
+      npm run build
+      npm run export
+  artifacts:
+    name: package-prod
+    paths:
+      - out/*
+    expire_in: 5 days
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "web" && $CI_COMMIT_BRANCH == "main"'
+      when: always
+  tags:
+    - default
+
+deploy-stg:
+  stage: deploy
+  image: python:latest
+  script:
+    - |
+      pip install awscli
+      /usr/local/bin/aws s3 cp ./out/ s3://$STG_S3_BUCKET_NAME/ --recursive
+  environment:
+    name: staging
+    url: https://stg-fundiin-home-page.s3.ap-southeast-1.amazonaws.com
+  needs:
+    - build-stg
+  dependencies:
+    - build-stg
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "web" && $CI_COMMIT_BRANCH != "main"'
+      when: on_success
+  tags:
+    - default
+
+deploy-prod:
+  stage: deploy
+  image: python:latest
+  script:
+    - |
+      pip install awscli
+      /usr/local/bin/aws s3 cp ./out/ s3://$PROD_S3_BUCKET_NAME/ --recursive
+  environment:
+    name: production
+    url: https://fundiin.vn
+  needs:
+    - build-prod
+  dependencies:
+    - build-prod
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "web" && $CI_COMMIT_BRANCH == "main"'
+      when: on_success
+  tags:
+    - default

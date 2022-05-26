@@ -1,0 +1,48 @@
+[
+    {
+        "title": "MuaXeDap",
+        "image": "assets/banner/mua-xe-dap.png"
+    },
+    {
+        "title": "indexlivingmall",
+        "image": "assets/banner/index-living-mall.png"
+    },
+    {
+        "title": "magiamgia",
+        "image": "assets/banner/magiamgia.jpg"
+    },
+    {
+        "title": "about-fundiin",
+        "image": "assets/banner/1.jpg"
+    },
+    {
+        "title": "9",
+        "image": "assets/banner/banner-9.jpg",
+        "link": "https://davies.vn/"
+    }
+]
+
+
+// [
+//     {
+//         "title": "MuaXeDap",
+//         "image": "assets/banner/mua-xe-dap.png"
+//     },
+//     {
+//         "title": "indexlivingmall",
+//         "image": "assets/banner/index-living-mall.png"
+//     },
+//     {
+//         "title": "magiamgia",
+//         "image": "assets/banner/magiamgia.jpg"
+//     },
+//     {
+//         "title": "about-fundiin",
+//         "image": "assets/banner/1.jpg"
+//     },
+//     {
+//         "title": "9",
+//         "image": "assets/banner/banner-9.jpg",
+//         "link": "https://davies.vn/"
+//     }
+// ]

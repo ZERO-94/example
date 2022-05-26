@@ -1,0 +1,1213 @@
+[
+    {
+        "id": 921,
+        "name": "VuaNem",
+        "image": "/images/partners/vuanem_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://vuanem.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1687,
+        "name": "PopKids",
+        "image": "/images/partners/pop-kids-logo.png",
+        "type": "GIAODUC",
+        "website": "https://kids.pops.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1684,
+        "name": "TiniStore",
+        "image": "/images/partners/tini-store-logo.png",
+        "type": "MEVABE",
+        "website": "https://tinistore.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3301,
+        "name": "ThegioiSkinfood",
+        "image": "/images/partners/thegioiskinfood_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://thegioiskinfood.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3121,
+        "name": "OLV",
+        "image": "/images/partners/olv_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://www.olv.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2121,
+        "name": "MARC",
+        "image": "/images/partners/marc_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://marc.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 241,
+        "name": "Sablanca",
+        "image": "/images/partners/sablanca_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://sablanca.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1661,
+        "name": "Paulachoice",
+        "image": "/images/partners/paulachoice_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://paulaschoice.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+
+    {
+        "id": 461,
+        "name": "Lug",
+        "image": "/images/partners/lung_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://lug.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2481,
+        "name": "Indexlivingmall",
+        "image": "/images/partners/indexlivingmall_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://indexlivingmallvn.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2402,
+        "name": "beyours",
+        "image": "/images/partners/beyours_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://beyours.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 981,
+        "name": "matviet",
+        "image": "/images/partners/matviet_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://matviet.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 581,
+        "name": "Haitrieu",
+        "image": "/images/partners/hai_trieu_logo.png",
+        "type": "BRANDHOT",
+        "website": "https://donghohaitrieu.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2882,
+        "name": "Daysaki",
+        "image": "/images/partners/daysaki_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://daysaki.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3181,
+        "name": "2FIT",
+        "image": "/images/partners/2fit_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://2fit.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2281,
+        "name": "MFParis",
+        "image": "/images/partners/mfparis_logo.jpg",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://mfparis.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2381,
+        "name": "Medi247",
+        "image": "/images/partners/med247_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://med247.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 421,
+        "name": "dhc",
+        "image": "/images/partners/dhc_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://dhcvietnam.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2001,
+        "name": "sakura",
+        "image": "/images/partners/sakura_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://sakurabeauty.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3641,
+        "name": "maihan",
+        "image": "/images/partners/maihanmypham_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://maihan.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 721,
+        "name": "bellelab",
+        "image": "/images/partners/bellelab_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://bellelab.co/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2641,
+        "name": "imageskincare",
+        "image": "/images/partners/imageskincare_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://imagevietnam.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 441,
+        "name": "hoaanhdao",
+        "image": "/images/partners/hoaanhdao_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://hoaanhdao.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "name": "omuse",
+        "image": "/images/partners/omuse_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://omuse.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2421,
+        "name": "cocayhoala",
+        "image": "/images/partners/cocayhoala_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://cocayhoala.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3181,
+        "name": "2FIT",
+        "image": "/images/partners/2fit_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://2fit.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3202,
+        "name": "Laura Sunshine",
+        "image": "/images/partners/laura_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://shopnhatkimanh.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 901,
+        "name": "duytruongphat",
+        "image": "/images/partners/duytruongphat_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://duytruongphatgroup.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1621,
+        "name": "nerman",
+        "image": "/images/partners/nerman_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://nerman.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2062,
+        "name": "hibeauty",
+        "image": "/images/partners/hibeauty_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://hibeauty.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2261,
+        "name": "hebora",
+        "image": "/images/partners/hebora_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://hebora.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2441,
+        "name": "myphambabau",
+        "image": "/images/partners/drmommy_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://myphambabau.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2521,
+        "name": "juicebeauty",
+        "image": "/images/partners/juicebeauty_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://juicebeauty.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1161,
+        "name": "elasten",
+        "image": "/images/partners/elasten_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://elasten.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2063,
+        "name": "1m88skin",
+        "image": "/images/partners/1m88skin_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://1m88skin.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2541,
+        "name": "alla",
+        "image": "/images/partners/alla_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://allashop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 521,
+        "name": "Maingoc",
+        "image": "/images/partners/showroommaingoc_logo.jpg",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://showroommaingoc.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1141,
+        "name": "motherland",
+        "image": "/images/partners/motherland_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://motherlandkr.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1023,
+        "name": "niperfume",
+        "image": "/images/partners/niperfume_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://niperfume.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 501,
+        "name": "Beautizon",
+        "image": "/images/partners/beautizon_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://beautizon.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 842,
+        "name": "lona",
+        "image": "/images/partners/lona_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://lona.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 861,
+        "name": "revitalash",
+        "image": "/images/partners/revitalash_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://revitalashcosmetics.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 601,
+        "name": "MC Perfume & Cosmetic",
+        "image": "/images/partners/mcstore_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://mcstore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 701,
+        "name": "ioma",
+        "image": "/images/partners/ioma_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://ioma.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 302,
+        "name": "happyskinspa",
+        "image": "/images/partners/happy_skin_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://www.happyskinspa.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 261,
+        "name": "her_skin_care",
+        "image": "/images/partners/her_skin_care.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://herskincare.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 222,
+        "name": "skinstore_logo",
+        "image": "/images/partners/skinstore_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://www.skinstore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 101,
+        "name": "alo-banh-mi",
+        "image": "/images/partners/alo-banh-mi-logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://alobanhmi.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 7,
+        "name": "orchard",
+        "image": "/images/partners/orchard-logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://orchard.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 161,
+        "name": "o-lang-vien",
+        "image": "/images/partners/o-lang-vien-logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://olangvien.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1043,
+        "name": "gsshop",
+        "image": "/images/partners/gsshop_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://thucphamchucnang.gsshop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 383,
+        "name": "greenoly",
+        "image": "/images/partners/greenoly_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://greenoly.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1822,
+        "name": "nhakhoahappy",
+        "image": "/images/partners/nhakhoahappy_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://nhakhoahappysaigon.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1381,
+        "name": "liplop",
+        "image": "/images/partners/liplop_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://liplop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1102,
+        "name": "thietbichinhhang",
+        "image": "/images/partners/thietbichinhhang_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://thietbichinhhang.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+
+    {
+        "id": 3421,
+        "name": "Rechic",
+        "image": "/images/partners/rechic_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://rechic.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3561,
+        "name": "Giay MYN",
+        "image": "/images/partners/myn_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://myn.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3143,
+        "name": "Vincy",
+        "image": "/images/partners/vinci_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://vincy.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3281,
+        "name": "Thoca House",
+        "image": "/images/partners/thoca_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://thocahouse.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3601,
+        "name": "Lamluy",
+        "image": "/images/partners/lamluy_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://lamluy.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3101,
+        "name": "Envy",
+        "image": "/images/partners/envy_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://envy.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1781,
+        "name": "gracy",
+        "image": "/images/partners/gracy_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://gracy.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1943,
+        "name": "Trinnie",
+        "image": "/images/partners/trinnie_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://giaycaogot.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2322,
+        "name": "kokomall",
+        "image": "/images/partners/kokomall_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://kokomall.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2322,
+        "name": "nanistore",
+        "image": "/images/partners/nanistore_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://nanistore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2562,
+        "name": "bitches",
+        "image": "/images/partners/bitches_logo.jpg",
+        "type": "THOITRANGNU",
+        "website": "https://bitches.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2563,
+        "name": "bitches - top trendy",
+        "image": "/images/partners/bitches_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://toptrendy.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2362,
+        "name": "DKMV",
+        "image": "/images/partners/dkmv_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://dkmv.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2362,
+        "name": "OnTop",
+        "image": "/images/partners/ontop_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://ontop.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2461,
+        "name": "evashoes",
+        "image": "/images/partners/evashoes_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://evashoes.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1281,
+        "name": "lmcation",
+        "image": "/images/partners/lmcation_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://www.lmcation.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 621,
+        "name": "darlingdiva",
+        "image": "/images/partners/darlingdiva_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://darlingdiva.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 202,
+        "name": "H_connect",
+        "image": "/images/partners/h_connect_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://vn.hconnect.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 166,
+        "name": "Zune",
+        "image": "/images/partners/zune_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://zunezx.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 841,
+        "name": "Kilee",
+        "image": "/images/partners/kilee_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://kilee.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3341,
+        "name": "Urban Monkey",
+        "image": "/images/partners/urbanmoney_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://urbanmonkey.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3201,
+        "name": "Luciano Shoemaker",
+        "image": "/images/partners/luciano_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://lucianoshoemaker.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1601,
+        "name": "Aligro",
+        "image": "/images/partners/aligro_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://aligro.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2041,
+        "name": "Ninetyninetyone",
+        "image": "/images/partners/ninetyninetyone_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://ninetyninetyone.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1921,
+        "name": "Havias",
+        "image": "/images/partners/havias_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://havias.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2301,
+        "name": "Butuni",
+        "image": "/images/partners/butuni_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://butuni.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2581,
+        "name": "ULA",
+        "image": "/images/partners/ula_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://ula.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2361,
+        "name": "davies",
+        "image": "/images/partners/davies_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://davies.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2364,
+        "name": "Hiddle",
+        "image": "/images/partners/hiddle_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://quanaonam.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1201,
+        "name": "tuto5",
+        "image": "/images/partners/tuto5_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://tuto5.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1021,
+        "name": "frcnk",
+        "image": "/images/partners/frcnk_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://frcnk.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 541,
+        "name": "don",
+        "image": "/images/partners/don_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://donitaliano.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 681,
+        "name": "steeler",
+        "image": "/images/partners/steeler_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://steeler.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 542,
+        "name": "Tarmor",
+        "image": "/images/partners/tarmor_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://tarmor.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 61,
+        "name": "the-wolf",
+        "image": "/images/partners/the-wolf-logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://thewolf.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1641,
+        "name": "sneakerholic",
+        "image": "/images/partners/sneakerholic_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://sneakerholicvietnam.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1481,
+        "name": "authenticshoes",
+        "image": "/images/partners/authenticshoes_logo.png",
+        "type": "THOITRANGNAM",
+        "website": "https://authentic-shoes.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 742,
+        "name": "xwatch",
+        "image": "/images/partners/xwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://xwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 641,
+        "name": "watchstore",
+        "image": "/images/partners/watchstore_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://www.watchstore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 801,
+        "name": "UMO",
+        "image": "/images/partners/umo_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://umo.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3221,
+        "name": "Eyewear",
+        "image": "/images/partners/eyewearhouse_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://eyewearhouse.tech/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1921,
+        "name": "thanhhungwatch",
+        "image": "/images/partners/thanhhungwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://thanhhungwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1101,
+        "name": "thegioidongho",
+        "image": "/images/partners/thegioidongho_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://thegioidongho.vip?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1801,
+        "name": "baothanhwatch",
+        "image": "/images/partners/baothanhwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://donghobaothanh.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2422,
+        "name": "hona",
+        "image": "/images/partners/hona_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://honastore.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2681,
+        "name": "timercasio",
+        "image": "/images/partners/timercasio_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://timercasio.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2922,
+        "name": "Danawatch",
+        "image": "/images/partners/danawatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://danawatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 961,
+        "name": "1994s",
+        "image": "/images/partners/1994s_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://1994s.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1521,
+        "name": "zenwatch",
+        "image": "/images/partners/zenwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://zenwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 361,
+        "name": "catwatch",
+        "image": "/images/partners/catwatch_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://catwatch.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 761,
+        "name": "dolleyes",
+        "image": "/images/partners/dolleyes_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://dolleyes.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3041,
+        "name": "TopBop",
+        "image": "/images/partners/topbop_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://www.topbop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1001,
+        "name": "T&H Watch",
+        "image": "/images/partners/th_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://dongho-tnh.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 165,
+        "name": "curnon",
+        "image": "/images/partners/curnon_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://curnonwatch.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 182,
+        "name": "kya",
+        "image": "/images/partners/kya_logo.png",
+        "type": "PHUKIENTHOITRANG",
+        "website": "https://kyajewel.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1602,
+        "name": "nemthuanviet",
+        "image": "/images/partners/nemthuanviet_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://nemthuanviet.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1541,
+        "name": "eratech",
+        "image": "/images/partners/eratech_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://era-tech.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1061,
+        "name": "khonoithat",
+        "image": "/images/partners/khonoithat_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://khonoithatsaigon.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1361,
+        "name": "karofi",
+        "image": "/images/partners/karofi_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://shop.karofi.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3381,
+        "name": "ECO248",
+        "image": "/images/partners/eco248_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://eco248.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1601,
+        "name": "luxuryoil",
+        "image": "/images/partners/luxury_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://luxuryoil.net/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1942,
+        "name": "photree",
+        "image": "/images/partners/photree_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://photree.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2161,
+        "name": "bewood",
+        "image": "/images/partners/bewood_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://www.sdesk.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2201,
+        "name": "mikiemat_logo",
+        "image": "/images/partners/mikiemat_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://mikiemat.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2781,
+        "name": "pranaoil",
+        "image": "/images/partners/pranaoil_logo.jpg",
+        "type": "NHACUAVADOISONG",
+        "website": "https://pranaoil.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2661,
+        "name": "bizsofa",
+        "image": "/images/partners/bizsofa_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://bizsofa.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2601,
+        "name": "tancang",
+        "image": "/images/partners/tancang_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://tancangdecor.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2741,
+        "name": "donghetuchon",
+        "image": "/images/partners/donghetuchon_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://donghetuchon.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2722,
+        "name": "vesta",
+        "image": "/images/partners/vesta_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://vestalifestyle.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1341,
+        "name": "beecube",
+        "image": "/images/partners/beecube_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://beecube.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1063,
+        "name": "storelammoc",
+        "image": "/images/partners/storelammoc_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://storelammoc.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1062,
+        "name": "thichtulam",
+        "image": "/images/partners/thichtulam_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://thichtulam.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 622,
+        "name": "ajhome",
+        "image": "/images/partners/ajhome_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://ajhome.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1401,
+        "name": "happyflower",
+        "image": "/images/partners/happyflower_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://happyflower.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2761,
+        "name": "vuonhoaxinh",
+        "image": "/images/partners/vuonhoaxinh_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://vuonhoaxinh.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 481,
+        "name": "agrioly",
+        "image": "/images/partners/agrioly_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://www.agrioly.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 561,
+        "name": "Donghecattoc",
+        "image": "/images/partners/donghecattoc_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://donghecattoc.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1421,
+        "name": "bamboo",
+        "image": "/images/partners/bamboo_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://bamboostore.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 743,
+        "name": "Huong Giang - hghome",
+        "image": "/images/partners/hghome_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://huonggiang.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2821,
+        "name": "NghienCaffee",
+        "image": "/images/partners/nghiencafe_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://ghiencafe.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3001,
+        "name": "T-Red Audio",
+        "image": "/images/partners/tred-audio_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://tredaudio.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3261,
+        "name": "DenShadow",
+        "image": "/images/partners/shadow_logo.png",
+        "type": "NHACUAVADOISONG",
+        "website": "https://shadow.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1821,
+        "name": "jkeng",
+        "image": "/images/partners/jkeng_logo.png",
+        "type": "GIAODUC",
+        "website": "https://jkenglish.edu.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2621,
+        "name": "toppy",
+        "image": "/images/partners/toppy_logo.png",
+        "type": "GIAODUC",
+        "website": "https://toppy.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 21,
+        "name": "SimpleEnglish",
+        "image": "/images/partners/simple-english-logo.png",
+        "type": "GIAODUC",
+        "website": "https://simpleenglish.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 321,
+        "name": "elsa",
+        "image": "/images/partners/elsa_logo.png",
+        "type": "GIAODUC",
+        "website": "https://vn.elsaspeak.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3,
+        "name": "LeadTheChange",
+        "image": "/images/partners/ltc-logo.png",
+        "type": "GIAODUC",
+        "website": "https://leadthechange.asia/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1082,
+        "name": "xedap",
+        "image": "/images/partners/xedap_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://xedap.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3481,
+        "name": "duchuybike",
+        "image": "/images/partners/duchuybike_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://xedapthethaoduchuy.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 341,
+        "name": "thanh_hung_futsal",
+        "image": "/images/partners/thanh_hung_futsal.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://thanhhungfutsal.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 962,
+        "name": "urixx",
+        "image": "/images/partners/urixx_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://urixx.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "name": "giant",
+        "image": "/images/partners/giant_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://giant.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 281,
+        "name": "jump_arena",
+        "image": "/images/partners/jum_arena_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://jumparena.vn/vi/jump-arena-home-2-vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 661,
+        "name": "Dodaba",
+        "image": "/images/partners/dodaba_logo.png",
+        "type": "THETHAOVADULICH",
+        "website": "https://dodabasport.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1603,
+        "name": "pigeon",
+        "image": "/images/partners/pigeon_logo.png",
+        "type": "MEVABE",
+        "website": "https://store.pigeon.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2141,
+        "name": "baababy",
+        "image": "/images/partners/baababy_logo.png",
+        "type": "MEVABE",
+        "website": "https://baababy.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1941,
+        "name": "giftpop",
+        "image": "/images/partners/giftpop_logo.png",
+        "type": "KHAC",
+        "website": "https://www.giftpop.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2242,
+        "name": "dutycast",
+        "image": "/images/partners/dutycast_logo.png",
+        "type": "KHAC",
+        "website": "https://dutycast.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3701,
+        "name": "DearJose",
+        "image": "/images/partners/dearjose_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://dearjose.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3581,
+        "name": "xedapgap",
+        "image": "/images/partners/xedapmtb_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://xedapmtb.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3442,
+        "name": "bepnhalany",
+        "image": "/images/partners/bepnhalany_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://bepnhalany.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3521,
+        "name": "Nemgiakho",
+        "image": "/images/partners/nemgiakho_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://nemgiakho.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3321,
+        "name": "Vicolas",
+        "image": "/images/partners/vicolas_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://vicolas.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 382,
+        "name": "Voidiung",
+        "image": "/images/partners/voidiung_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://voidiung.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3061,
+        "name": "wheytot",
+        "image": "/images/partners/wheytot_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://wheytot.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3241,
+        "name": "Trali",
+        "image": "/images/partners/trali_logo.png",
+        "type": "THOITRANGNU",
+        "website": "https://trali.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 3161,
+        "name": "Thalgo",
+        "image": "/images/partners/thalgo_logo.png",
+        "type": "SUCKHOEVALAMDEP",
+        "website": "https://thalgo.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2061,
+        "name": "Tuan_Hung_Watch",
+        "image": "/images/partners/tuanhungwatch_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://donghotuanhung.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2181,
+        "name": "lamant",
+        "image": "/images/partners/lamant_logo.jpg",
+        "type": "THOITRANGNAM",
+        "website": "https://lamant.com.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2341,
+        "name": "MrThaifood",
+        "image": "/images/partners/mrthaifood_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://mrthaifood.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1181,
+        "name": "Vinhnam_Digital",
+        "image": "/images/partners/vinhnamdigital_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://www.vinhnamdigital.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "name": "Totstories",
+        "image": "/images/partners/tot_story_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://totstories.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 781,
+        "name": "Patrick",
+        "image": "/images/partners/patrick_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://patrick.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 2462,
+        "name": "AimAcademy",
+        "image": "/images/partners/aimacademy_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://aimacademy.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1681,
+        "name": "Dicar",
+        "image": "/images/partners/dicar_logo.png",
+        "type": "KHAC",
+        "website": "https://dicar.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1683,
+        "name": "Leka",
+        "image": "/images/partners/leka_logo.png",
+        "type": "COMINGSOON",
+        "website": "https://leka.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1685,
+        "name": "TheGioSofa",
+        "image": "/images/partners/tg-sofa-logo.png",
+        "type": "COMINGSOON",
+        "website": "https://thegioisofa.com/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    },
+    {
+        "id": 1686,
+        "name": "PopKids",
+        "image": "/images/partners/pop-kids-logo.png",
+        "type": "GIAODUC",
+        "website": "https://kids.pops.vn/?utm_source=fundiin&utm_medium=referral&utm_campaign=fundiin"
+    }
+
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "BRANDHOT",
+        "title": "Brand hot",
+        "icon": "brand-hot.png"
+      },
+    {
+        "id": "SUCKHOEVALAMDEP",
+        "title": "Sức khỏe & làm đẹp",
+        "icon": "suc-khoe-va-lam-dep.png"
+      },
+    {
+        "id": "THOITRANGNU",
+        "title": "Thời trang nữ",
+        "icon": "thoi-trang-nu.png"
+      },
+    {
+        "id": "THOITRANGNAM",
+        "title": "Thời trang nam",
+        "icon": "thoi-trang-nam.png"
+      },
+    {
+        "id": "PHUKIENTHOITRANG",
+        "title": "Phụ kiện thời trang",
+        "icon": "phu-kien.png"
+      },
+    {
+        "id": "NHACUAVADOISONG",
+        "title": "Nhà cửa & đời sống",
+        "icon": "nha-cua-va-doi-song.png"
+      },
+    {
+        "id": "GIAODUC",
+        "title": "Giáo dục",
+        "icon": "giao-duc.png"
+      },
+    {
+        "id": "THETHAOVADULICH",
+        "title": "Thể thao & Du lịch",
+        "icon": "the-thao-du-lich.png"
+      },
+    {
+        "id": "MEVABE",
+        "title": "Mẹ & Bé",
+        "icon": "me-va-be.png"
+      },
+    {
+        "id": "KHAC",
+        "title": "Khác",
+        "icon": "khac.png"
+    }
+]

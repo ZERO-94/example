@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Hành trình lập nghiệp của nguyên quản lý quỹ Vietnam Holding: Đầu tư kiếm triệu đô trước tuổi 28, mất trắng khi khởi nghiệp, làm lại với mô hình kinh doanh đang ‘bùng nổ’ toàn cầu",
+        "provider": "Cafebiz.vn",
+        "image": "/images/press/1.jpeg",
+        "link": "https://cafebiz.vn/hanh-trinh-lap-nghiep-cua-nguyen-quan-ly-quy-vietnam-holding-dau-tu-kiem-trieu-do-truoc-tuoi-28-mat-trang-khi-khoi-nghiep-lam-lai-voi-mo-hinh-kinh-doanh-dang-bung-no-toan-cau-20211104102136804.chn"
+    },
+    {
+        "id": 2,
+        "title": "Fundiin – thời đại của mua trước trả sau",
+        "provider": "Nhịp cầu đầu tư",
+        "image": "/images/press/2.jpg",
+        "link": "https://cafebiz.vn/hanh-trinh-lap-nghiep-cua-nguyen-quan-ly-quy-vietnam-holding-dau-tu-kiem-trieu-do-truoc-tuoi-28-mat-trang-khi-khoi-nghiep-lam-lai-voi-mo-hinh-kinh-doanh-dang-bung-no-toan-cau-20211104102136804.chn"
+    },
+    {
+        "id": 3,
+        "title": "Fundiin gọi vốn thành công 1,8 triệu đô",
+        "provider": "Vnexpress",
+        "image": "/images/press/3.jpg",
+        "link": "https://startup.vnexpress.net/tin-tuc/xu-huong/fundiin-goi-von-thanh-cong-4256200.html"
+    },
+    {
+        "id": 4,
+        "title": "Mỏ vàng dịch vụ “mua ngay, trả sau”",
+        "provider": "baodautu.vn",
+        "image": "/images/press/5.jpg",
+        "link": "https://baodautu.vn/mo-vang-dich-vu-mua-ngay-tra-sau-d151338.html"
+    },
+    {
+        "id": 5,
+        "title": "Fundiin hợp tác với Sapo cung cấp giải pháp mua trả sau miễn phí",
+        "provider": "Thanhnien",
+        "image": "/images/press/4.jpg",
+        "link": "https://thanhnien.vn/fundiin-hop-tac-voi-sapo-cung-cap-giai-phap-mua-tra-sau-mien-phi-post1089822.html"
+    },
+    {
+        "id": 6,
+        "title": "Fundiin bắt tay cùng Haravan, kích thích tiêu dùng online cho nhà bán lẻ",
+        "provider": "24h.com.vn",
+        "image": "/images/press/6.jpg",
+        "link": "https://www.24h.com.vn/kham-pha-cong-nghe/fundiin-bat-tay-cung-haravan-kich-thich-tieu-dung-online-cho-nha-ban-le-c675a1305240.html"
+    },
+    {
+        "id": 7,
+        "title": "Startup dẫn người tiêu dùng Việt vào thói quen “mua trước trả sau”",
+        "provider": "Doanhnhansaigon",
+        "image": "/images/press/8.jpg",
+        "link": "https://doanhnhansaigon.vn/khoi-nghiep/startup-dan-nguoi-tieu-dung-viet-vao-thoi-quen-mua-truoc-tra-sau-1106934.html"
+    },
+    {
+        "id": 8,
+        "title": "Mua trước - Trả sau: Cơn sốt toàn cầu về đến Việt Nam, đã bao giờ bạn nghĩ đến việc trả góp để mua một đôi giày hay bộ quần áo?",
+        "provider": "CafeF",
+        "image": "/images/press/7.jpg",
+        "link": "https://cafef.vn/mua-truoc-tra-sau-con-sot-toan-cau-ve-den-viet-nam-da-bao-gio-ban-nghi-den-viec-tra-gop-de-mua-mot-doi-giay-hay-bo-quan-ao-20210803202447612.chn"
+    }
+]

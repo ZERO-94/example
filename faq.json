@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "question": "Tại sao tôi lại phải trả phí đóng trễ?",
+        "answer": "Bạn đã bị tính phí trễ hạn vì bạn đã không thực hiện một trong các khoản thanh toán theo lịch trình của mình. Bạn có thể thực hiện thanh toán ngay để tránh phát sinh thêm phí bằng cách đăng nhập vào tài khoản tại ứng dụng Fundiin để thanh toán nếu gặp khó khăn bạn có thể liên hệ tổng đài Fundiin để được hỗ trợ."
+    },
+    {
+        "id": 2,
+        "question": "Lý do khách hàng bị từ chối là gì?",
+        "answer": "Fundiin duyệt hồ sơ khách hàng dựa trên điểm tín nhiệm được tính tự động bằng máy từ rất nhiều dữ liệu nên Fundiin không thể trả lời bằng một hoặc hai lý do cụ thể nào. Tuy nhiên, khách hàng cần đảm bảo các điều kiện tối thiểu để được duyệt: <br/>(i) phải trên 18 tuổi <br/>(ii) là công dân Việt Nam <br/>(iii) sở hữu số điện thoại chính chủ từ các nhà mạng Viettel, Mobifone, Vinaphone. <br/>Ngoài ra, Fundiin cũng sẽ có thể (tạm thời) từ chối khi không có đủ dữ liệu về khách hàng để đánh giá tín nhiệm."
+    },
+    {
+        "id": 3,
+        "question": "Đơn hàng giá trị từ bao nhiêu là khách hàng được sử dụng?",
+        "answer": "Các đơn hàng có giá trị từ 0 VNĐ trở lên là khách hàng đã có thể sử dụng Fundiin để trả sau. Và không giới hạn bất kỳ sản phẩm nào."
+    },
+    {
+        "id": 4,
+        "question": "Tại sao một số đơn hàng có kỳ 1 cao hơn kỳ 2 và 3?",
+        "answer": "Thông qua máy, Fundiin tự động duyệt một hạn mức có thể hỗ trợ khác nhau cho từng khách hàng. Trong một số trường hợp giá trị đơn hàng cao hơn hạn mức mà Fundiin có thể hỗ trợ, số tiền phải thanh toán kỳ 1 có thể cao hơn kỳ 2 và 3."
+    },
+    {
+        "id" : 5,
+        "question": "Khách hàng có thể mua bao nhiêu đơn hàng?",
+        "answer": "Đối với đơn hàng đầu tiên tại Fundiin, khách hàng phải thanh toán hết toàn bộ kỳ 2 thì mới được mua tiếp đơn hàng mới. Kể từ đơn hàng thứ 2 trở đi, khách hàng có thể mua cùng lúc nhiều đơn hàng miễn là trong hạn mức Fundiin hỗ trợ."
+    },
+    {
+        "id" : 6,
+        "question": "Fundiin có nhắc khách hàng trước khi đến hạn?",
+        "answer": "Trước khi đến hạn 5 ngày, Fundiin sẽ gọi cho khách hàng để hưởng dẫn cách thanh toán cũng như nhắc để khách hàng thanh toán đúng hạn."
+    },
+    {
+        "id" : 7,
+        "question": "Nếu khách hàng thanh toán trễ hạn thì có phạt không?",
+        "answer": "Trường hợp thanh toán quá hạn, Fundiin sẽ tính phí phạt ở mức 0.6% giá trị đơn hàng cho mỗi kỳ và mỗi tuần muộn. Tuy nhiên, tổng phí phạt sẽ được giới hạn không quá 25% giá trị đơn hàng trong mọi trường hợp. Tham khảo thêm Chính sách chung."
+    }
+  ]

@@ -1,0 +1,875 @@
+
+* {
+    font-family: 'League Spartan';
+}
+
+.content-container .content p {
+    font-size: 1.8rem; 
+    color: #000000; 
+    font-weight: 500; 
+    margin-bottom: 0; 
+    font-family: 'League Spartan'; 
+    line-height: 2rem;
+}
+
+.text-highlight {
+    color: #24CDF3;
+}
+
+.tag {
+    background: #FFDEEC;
+    width: fit-content;
+    padding: 0.2rem 1rem; 
+    border-radius: 10px; 
+    margin: -15px 0 0.5rem 0;
+}
+
+.tag-text {
+    font-size: 1.7rem; 
+    color: #FF365A; 
+    font-weight: 700;
+}
+
+.logo {
+    width: 210px;
+}
+
+.logo-container {
+    margin-top: 3rem;
+    margin-left: 4rem; 
+    position: absolute;
+}
+
+.mobile {
+    display: none;
+}
+
+.desktop {
+    display: block;
+}
+
+.content-container {
+    margin-top: 5.8rem;
+    padding: 0;
+}
+
+.content-container .content {
+    width: 85%;
+}
+
+.QR-code-container {
+    padding: 1rem 8rem;
+    max-width: 100vw;
+}
+
+.QR-code-container p {
+    font-size: 1.3rem;
+}
+
+.QR-code-container img {
+    width: 200px;
+}
+
+.content-container .content .header {
+    margin: 0; 
+    font-size: 5.7rem; 
+    font-family: "iCielFester";
+}
+
+.container-fluid { 
+    padding: 3rem 4.5rem; 
+}
+
+.content-container .content { 
+    padding: 3rem 8rem; 
+}
+
+.content-container .content .header.mobile { 
+    display: inline;
+}
+
+/* Fundiin feature */
+
+.header-feature {
+    margin: 2rem auto;
+}
+
+.features {
+    display: flex; 
+    padding: 3rem 5rem;
+}
+
+.feature {
+    flex: 3; 
+    display: flex;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.feature p {
+    font-size: 1.8rem; 
+    color: #000000; 
+    font-weight: 500; 
+    margin-bottom: 0; 
+    font-family: 'League Spartan'; 
+    line-height: 2rem; 
+    text-align: center;
+}
+
+.feature h3 {
+    font-size: 2.5rem; 
+    color: #000000; 
+    font-weight: 800; 
+    margin-bottom: 0; 
+    font-family: 'League Spartan'; 
+    line-height: 2rem; 
+    text-align: center;
+    margin: 1.5rem auto;
+}
+
+.callout-container {
+    width: 55%; 
+    display: flex;
+    justify-content: center; 
+    border-radius: 20px; 
+    margin: 0 auto; 
+    padding: 1.7rem;
+}
+
+.callout-container h1, .callout-container p{
+    text-align: center;
+}
+
+.header-tutorial h1 {
+    margin: 0; 
+    font-size: 5.7rem; 
+    font-family: "iCielFester";
+}
+
+.tutorial-content p {
+    text-align: start;
+}
+
+/* merchant content */
+
+.merchants-content p {
+    font-size: 2rem; 
+    color: #000000; 
+    font-weight: 500; 
+    margin-bottom: 0; 
+    font-family: 'League Spartan'; 
+    line-height: 2rem;
+}
+
+.merchant-icon img{
+    width: 130px;
+    margin: 0.5rem;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    * {
+        font-size: 10px;
+    }
+
+    .mobile {
+        display: block;
+    }
+    
+    .desktop {
+        display: none;
+    }
+
+    .content-container .content {
+        width: 100vw;
+    }
+
+    .QR-code-container {
+        padding: 5rem 0rem 1rem 4rem;
+    }
+
+    .QR-code-container p {
+        max-width: 9rem;
+    }
+
+    .QR-code-container img {
+        width: 100px;
+    }
+
+    .mockup {
+        width: 250px;
+    }
+
+    .content-container .content { 
+        padding: 3rem; 
+    }
+
+    .container-fluid { 
+        padding: 3rem; 
+    }
+
+    .content-container .content .header { 
+        font-size: 4.5rem; 
+        margin-bottom: 1rem;
+    }
+
+    .content-container .content .header.mobile { 
+        display: block;
+        margin: 0;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .logo-container {
+        margin-top: 3rem;
+        margin-left: 1rem; 
+        position: absolute;
+    }
+
+    .header-feature {
+        text-align: center;
+    }
+
+    .features {
+        flex-direction: column;
+    }
+
+    .callout-container {
+        width: 100%;
+    }
+    
+    .header-tutorial {
+        text-align: center;
+    }
+
+    .tutorial .icon-container img{
+        width: 180px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .tutorial-content {
+        text-align: center;
+    }
+
+    .text-container {
+        margin: 2rem auto;
+        text-align: center;
+    }
+
+    .text-container h1{
+        text-align: center;
+    }
+
+    .header-tutorial h1 {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .header-container {
+        text-align: center;
+        
+    }
+
+    .header-container h1 {
+        font-size: 4rem;
+        
+    }
+
+    .rules .icon-container img {
+        height: 70px;
+    }
+
+    .rules .icon-container img.id-card-icon {
+        height: 50px;
+        margin-bottom: 20px;
+    }
+
+    .features .icon-container img {
+        height: 70px;
+    }
+
+    .fundiin-square-icon {
+        display: flex; 
+        margin-bottom: 5rem; 
+        justify-content: center;
+    }
+
+    .fundiin-square-icon img{
+        width: 80px !important;
+    }
+
+    .mixed-text {
+        text-align: center;
+    }
+
+    .contact-holder {
+        justify-content: center;
+    }
+
+    .contact-holder img {
+        width: 40px;
+    }
+
+    .contact-container {
+        justify-content: center;
+    }
+
+    .contact-info > .row {
+        width: 100%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    * {
+        font-size: 12px;
+    }
+
+    .mobile {
+        display: block;
+    }
+    
+    .desktop {
+        display: none;
+    }
+
+    .content-container .content {
+        width: 100vw;
+    }
+
+    .QR-code-container {
+        padding: 5rem 0rem 1rem 8rem;
+    }
+
+    .QR-code-container p{
+        font-size: 1rem;
+        max-width: 19rem;
+    }
+
+    .QR-code-container img {
+        width: 150px;
+    }
+
+    .content-container .content { 
+        padding: 3rem; 
+    }
+
+    .mockup {
+        width: 400px;
+    }
+
+    .content-container .content .header { 
+        font-size: 4.5rem; 
+        margin-bottom: 1rem;
+    }
+
+    .content-container .content .header.mobile { 
+        display: block;
+        margin: 0;
+    }
+
+    .container-fluid { 
+        padding: 3rem; 
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .logo-container {
+        margin-top: 3rem;
+        margin-left: 1rem; 
+        position: absolute;
+    }
+
+    .header-feature {
+        text-align: center;
+    }
+
+    .features {
+        flex-direction: column;
+    }
+
+    .callout-container {
+        width: 100%;
+    }
+
+    .header-tutorial{
+        text-align: center;
+    }
+
+    .header-tutorial h1 {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .tutorial .icon-container img{
+        width: 250px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .tutorial-content {
+        text-align: center;
+    }
+
+    .text-container {
+        margin: 2rem auto;
+        text-align: center;
+    }
+
+    .text-container h1{
+        text-align: center;
+    }
+
+    .header-container h1 {
+        font-size: 4rem;
+    }
+
+    .fundiin-square-icon {
+        display: flex; 
+        margin-bottom: 5rem; 
+        justify-content: center;
+    }
+
+    .fundiin-square-icon img{
+        width: 100px !important;
+    }
+
+    .mixed-text {
+        text-align: center;
+    }
+
+    .contact-holder {
+        justify-content: center;
+    }
+
+    .contact-holder img {
+        width: 40px;
+    }
+
+    .contact-container {
+        justify-content: center;
+    }
+
+    .contact-info > .row {
+        width: 100%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .tutorial .icon-container img{
+        width: 280px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .text-container {
+        margin: 2rem auto;
+        text-align: center;
+    }
+
+    .text-container h1{
+        text-align: center;
+    }
+
+    .contact-container {
+        justify-content: center;
+    }
+
+    .contact-info > .row {
+        width: 100%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    .text-container {
+        margin: 2rem auto;
+        text-align: center;
+    }
+
+    .text-container h1{
+        text-align: center;
+    }
+
+    .header-tutorial h1 {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .contact-container {
+        justify-content: end;
+    }
+
+    .contact-info > .row {
+        width: 100%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+    * {
+        font-size: 16px;
+    }
+
+    .mobile {
+        display: none;
+    }
+    
+    .desktop {
+        display: block;
+    }
+
+    .QR-code-container {
+        padding: 1rem 4.5rem;
+        max-width: 100vw;
+    }
+    
+    .QR-code-container p {
+        font-size: 1.3rem;
+        max-width: max-content;
+    }
+    
+    .QR-code-container img {
+        width: 200px;
+    }
+
+    .mockup {
+        width: 450px;
+    }
+
+    .logo {
+        width: 210px;
+    }
+
+    .logo-container {
+        margin-top: 3rem;
+        margin-left: 4.5rem; 
+        position: absolute;
+    }
+
+    .container-fluid { 
+        padding: 4rem 4.5rem; 
+    }
+
+    .content-container .content {
+        padding: 3rem 4.5rem;
+        width: 85vw;
+    }
+
+    .logo {
+        width: 210px;
+    }
+    
+    .logo-container {
+        margin-top: 3rem;
+        margin-left: 4.5rem; 
+        position: absolute;
+    }
+    
+    .mobile {
+        display: none;
+    }
+    
+    .desktop {
+        display: block;
+    }
+    
+    .content-container .content {
+        width: 130%;
+    }
+    
+    .content-container .content .header { 
+        font-size: 5.7rem;
+    }
+
+    .content-container .content .header.mobile { 
+        display: inline;
+    }
+
+    /* Fundiin feature */
+
+    .header-feature {
+        text-align: left;
+        margin: 2rem auto;
+    }
+
+    .features {
+        display: flex; 
+        flex-direction: row;
+        padding: 3rem 5rem;
+    }
+
+    .feature {
+        flex: 3; 
+        display: flex;
+        align-items: center; 
+        flex-direction: column;
+    }
+
+    .feature p {
+        font-size: 1.8rem; 
+        color: #000000; 
+        font-weight: 500; 
+        margin-bottom: 0; 
+        font-family: 'League Spartan'; 
+        line-height: 2rem; 
+        text-align: center;
+    }
+
+    .feature h3 {
+        font-size: 2.5rem; 
+        color: #000000; 
+        font-weight: 800; 
+        margin-bottom: 0; 
+        font-family: 'League Spartan'; 
+        line-height: 2rem; 
+        text-align: center;
+        margin: 1.5rem auto;
+    }
+
+    .callout-container {
+        width: 70%; 
+        display: flex;
+        justify-content: center; 
+        border-radius: 20px; 
+        margin: 0 auto; 
+        padding: 1.7rem;
+        max-width: 55rem;
+    }
+
+    .header-tutorial h1 {
+        margin: 0; 
+        font-size: 5.7rem; 
+        font-family: "iCielFester";
+    }
+
+    .tutorial-content {
+        text-align: start;
+    }
+
+    html {
+        font-size: 15px;
+    }
+
+    .content-container .content .header {
+        font-size: 4.4rem;
+    }
+
+    .content-container .content p {
+        font-size: 1.6rem;
+    }
+
+    .header-tutorial h1 {
+        text-align: start;
+        font-size: 3rem;
+    }
+
+    .text-container p {
+        text-align: start;
+    }
+
+    .header-container h1 {
+        font-size: 5.8rem;
+    }
+
+    .fundiin-square-icon {
+        display: flex; 
+        margin-bottom: 5rem; 
+        justify-content: start;
+    }
+
+    .fundiin-square-icon img{
+        width: 150px !important;
+    }
+
+    .mixed-text {
+        text-align: start;
+    }
+
+    .contact-holder {
+        justify-content: start;
+    }
+
+    .contact-holder img {
+        width: 50px;
+    }
+
+    .contact-container {
+        justify-content: start;
+    }
+
+    .contact-info .row {
+        width: 160%;
+    }
+}
+
+/* Large devices (laptops/desktops, 1280px and up) */
+@media only screen and (min-width: 1280px) {
+    .page-container {
+        padding: 0;
+    }
+
+    html {
+        font-size: 15px;
+    }
+
+    .content-container .content .header {
+        font-size: 4.4rem;
+    }
+
+    .content-container .content p {
+        font-size: 1.6rem;
+    }
+
+    .header-container h1 {
+        font-size: 5.8rem;
+    }
+
+    .rules .icon-container img.id-card-icon {
+        height: 90px;
+        margin-bottom: 15px;
+    }
+
+    .contact-holder img {
+        width: 50px;
+    }
+
+    .contact-container {
+        justify-content: start;
+    }
+
+    .contact-info .row {
+        width: 160%;
+    }
+}
+
+/* Large devices (laptops/desktops, 1280px and up) */
+@media only screen and (min-width: 1400px) {
+    .page-container {
+        padding: 0 5%;
+    }
+
+    html {
+        font-size: 15px;
+    }
+
+    .content-container .content .header {
+        font-size: 4.2rem;
+    }
+
+    .content-container .content p {
+        font-size: 1.8rem;
+    }
+
+    .header-tutorial h1 {
+        text-align: start;
+        font-size: 3rem;
+    }
+
+    .header-container h1 {
+        font-size: 5.8rem;
+    }
+
+    .contact-holder img {
+        width: 50px;
+    }
+
+    .contact-container {
+        justify-content: start;
+    }
+
+    .contact-info .row {
+        width: 160%;
+    }
+}
+
+/* Large devices (laptops/desktops, 1280px and up) */
+@media only screen and (min-width: 1600px) {
+    .page-container {
+        padding: 0 5%;
+    }
+
+    html {
+        font-size: 15px;
+    }
+
+    .content-container .content .header {
+        font-size: 5.2rem;
+    }
+
+    .merchant-icon img {
+        width: 160px;
+    }
+
+    .content-container .content p {
+        font-size: 1.8rem;
+    }
+
+    .header-tutorial h1 {
+        text-align: start;
+        font-size: 3.5rem;
+    }
+
+    .header-container h1 {
+        font-size: 5.8rem;
+    }
+
+    .contact-holder img {
+        width: 50px;
+    }
+
+    .contact-container {
+        justify-content: start;
+    }
+
+    .contact-info .row {
+        width: 160%;
+    }
+}
+
+/* Large devices (laptops/desktops, 1280px and up) */
+@media only screen and (min-width: 1700px) {
+    .page-container {
+        padding: 0 5%;
+    }
+
+    html {
+        font-size: 16px;
+    }
+
+    .content-container .content .header {
+        font-size: 5.2rem;
+    }
+
+    .merchant-icon img {
+        width: 160px;
+    }
+
+    .content-container .content p {
+        font-size: 1.8rem;
+    }
+
+    .header-container h1 {
+        font-size: 5.8rem;
+    }
+
+    .contact-holder img {
+        width: 50px;
+    }
+
+    .contact-container {
+        justify-content: start;
+    }
+
+    .contact-info .row {
+        width: 160%;
+    }
+}

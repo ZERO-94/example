@@ -1,0 +1,95 @@
+.Page {
+  font-family: "Montserrat", sans-serif;
+  background-color: #b3b3b3;
+  display: flex;
+  justify-content: center;
+}
+
+.PopupWrapper {
+  max-width: 375px;
+  background-color: #ffffff;
+  margin: 10px auto;
+  border-radius: 24px;
+  padding: 24px;
+}
+
+.Popup {
+  width: 100%;
+}
+
+.LogoWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.LogoWrapper img {
+  padding: 1rem;
+  width: 75%;
+  display: block;
+  margin: 0 auto;
+}
+
+.Content {
+}
+
+.Subtitle {
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 17px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.Title {
+  display: block;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 17px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.FeatureWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Feature {
+  margin-bottom: 16px;
+}
+
+.Feature p {
+  display: inline;
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+  font-size: 17.6px;
+}
+
+.StepWrapper {
+  margin-bottom: 24px;
+}
+
+.StepWrapper img {
+  display: block;
+  max-width: 260px;
+  margin: 0 auto;
+}
+
+.Rule p {
+  margin: 16px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+@media only screen and (max-width: 1024px) {
+  .Page {
+    background-color: #ffffff;
+    justify-content: unset;
+  }
+}

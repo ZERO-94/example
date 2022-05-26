@@ -1,0 +1,141 @@
+.option-item .default-btn {
+  width: 13rem;
+  background-color: var(--mainColor);
+  color: #fff;
+  border: 1px solid var(--mainColor);
+  position: relative;
+  -webkit-box-shadow: unset !important;
+  box-shadow: unset !important;
+  border-radius: 30px;
+  background-color: transparent;
+  color: var(--mainColor);
+  font-weight: 500;
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+
+.register-btn {
+  background-color: var(--mainColor) !important;
+  color: #fff !important;
+}
+
+.bg-light {
+  background-color: #fff !important;
+}
+
+.dropdown-menu {
+  border-top: 5px solid #5bc0f7;
+  margin: 0;
+}
+
+.dropdown-menu li a {
+  width: 20%;
+}
+
+#button2 .navbar-toggler-icon {
+  background-image: url("/images/three-dots.svg");
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 1);
+  border-color: #fff;
+}
+
+@media only screen and (min-width: 1200px) {
+  .dropdownMenu {
+    width: 99vw;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+  }
+
+  .dropdownMenu .nav-item {
+    width: 20%;
+  }
+
+  .dropdownMenu .nav-link {
+    width: 100%;
+  }
+
+  #navbarSupportedContent .navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .collapse:not(.show) {
+    display: none !important;
+  }
+
+  #button-bar {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+  }
+
+  .navbar-light img {
+    display: inline;
+  }
+
+  .navbar-light .navbar-brand {
+    display: inline;
+  }
+
+  .navbar-expand-lg .navbar-toggler {
+    display: block;
+  }
+
+  .dropdown-menu {
+    border-top: none;
+    margin: 0;
+    border: none;
+    font-size: 0.8rem;
+    padding-left: 1rem;
+  }
+
+  .dropdown-menu li a {
+    width: 80%;
+  }
+
+  #navbarSupportedContent2 .nav-item {
+    display: flex;
+    justify-content: end;
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-light img {
+    display: inline;
+  }
+
+  .navbar-light .navbar-brand {
+    display: inline;
+  }
+}
+
+.collapse .navbar-nav > li > a:hover {
+  color: #5bc0f7 !important;
+}
+
+.collapse .navbar-nav > li > a:focus {
+  color: #5bc0f7 !important;
+}
+
+.navbar-light .navbar-nav .nav-link.show {
+  color: #5bc0f7 !important;
+}
+
+.collapse .navbar-nav > li {
+  margin: 0 1rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #5bc0f7;
+}
