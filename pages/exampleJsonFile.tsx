@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import axiosClient from '../services/api-service/axiosClient';
 
 interface DataInterface {
     id: number,
@@ -15,27 +16,17 @@ const ExamplePage = () => {
     const [data, setData] = useState<DataInterface[]>([]);
     //^ with this one it will know that this data will hold a lot of object which has structure like DataInterface
 
+    const fetchData = async () => {
+        try {
+            const res : DataInterface[] = await axiosClient.get(window.location.origin + "/data.json"); //i already prepared a data.json in public folder, please check it
+            setData(res);
+        } catch (e) {
+            console.log(e);
+        }
+    }
+
     useEffect(() => {
-        setData([
-            {
-                id: 1,
-                product_name: "sth",
-                product_category: "sth",
-                unit_price: 1
-            },
-            {
-                id: 2,
-                product_name: "sth2",
-                product_category: "sth2",
-                unit_price: 1
-            },
-            {
-                id: 3,
-                product_name: "sth3",
-                product_category: "sth3",
-                unit_price: 1
-            },
-        ])
+        fetchData();
     }, []);
 
 
