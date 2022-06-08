@@ -26,15 +26,20 @@ const ExamplePage = () => {
     //^ with this one it will know that this data will hold a lot of object which has structure like DataInterface
     const [popupVisible, setPopupVisible] = useState(false);
     const [popupData, setPopupData] = useState({});
+    const [searchValue , setSearchValue] = useState("");
 
 
-    const fetchData = async () => {
+    const fetchData = async (filterFunction) => {
         try {
             const res : DataInterface[] = await axiosClient.get("https://6291e4f99d159855f081e673.mockapi.io/data");
-            const finalList : FinalDataInterface[] = res.map((item) => ({
+            const finalList : FinalDataInterface[] = filterFunction ? res.map((item) => ({
+                ...item,
+                checked: false
+            })).filter(item => filterFunction(item)) : res.map((item) => ({
                 ...item,
                 checked: false
             }))
+
             setData(finalList);
         } catch (e) {
             console.log(e);
@@ -42,8 +47,14 @@ const ExamplePage = () => {
     }
 
     useEffect(() => {
-        fetchData();
+        fetchData(undefined);
     }, []);
+
+    //this useEffect is for filter
+    useEffect(() => {
+        fetchData((item) => item.product_name.includes(searchValue));
+
+    }, [searchValue]);
 
     return (
         <>
@@ -51,6 +62,7 @@ const ExamplePage = () => {
             <DetailModal data={popupData} setData={setData} setPopupVisible={setPopupVisible}/>
         </div>
         <div className="container">
+            <input onChange={(event) => setSearchValue(event.target.value)}/>
             <h1>Simple Inventory Table</h1>
             <table>
                 <thead>
