@@ -11,6 +11,10 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.8.5",
+    "@mui/x-data-grid": "^5.12.2",
     "@react-pdf/renderer": "^2.1.1",
     "@types/jquery": "^3.5.14",
     "@types/react": "^17.0.11",
